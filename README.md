@@ -12,5 +12,5 @@
 In your CLI write: ``` git clone https://github.com/flauschxger/small-python-youtube-downloader.git ``` then open main.py in your Terminal or just > cd [path] to it.
 
 ## Easy Method
-Just download the executable from the latest [release](https://github.com/flauschxger/small-python-youtube-downloader/releases/latest)
+Just download the executable from the latest [release](https://github.com/flauschxger/simple-python-youtube-downloader/releases/latest)
 
