@@ -13,12 +13,3 @@ In your CLI write: ``` git clone https://github.com/flauschxger/small-python-you
 
 ## Easy Method
 Just download the executable from the latest [release](https://github.com/flauschxger/simple-python-youtube-downloader/releases/latest)
-
-
-
-
-
-### Like what I do? [Donate](https://streamelements.com/flauschxger/tip)
-Why donate over Streamelements you might ask? 
-1. It is the easiest method for me to receive money
-2. You can also check out my twitch in the mean time Pog?
