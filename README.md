@@ -19,6 +19,6 @@ Just download the executable from the latest [release](https://github.com/flausc
 
 
 ### Like what I do? [Donate](https://streamelements.com/flauschxger/tip)
-why donate over Streamelements you might ask? 
+Why donate over Streamelements you might ask? 
 1. It is the easiest method for me to receive money
 2. You can also check out my twitch in the mean time Pog?
